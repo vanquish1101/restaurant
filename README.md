@@ -28,6 +28,8 @@ npm run start  //執行程式
 
 使用工具
 
-Visual Studio Code - 開發環境
+Visual Studio Code - 開發環境 
+
 Express - 應用程式架構
+
 Express-Handlebars - 模板引擎
